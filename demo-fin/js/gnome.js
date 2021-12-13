@@ -1,4 +1,4 @@
-export default class gnome {
+export class gnome {
     constructor  (nom, metier, niveau, puissance) {
     this.nom = nom;
     this.metier = metier;
